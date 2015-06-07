@@ -1,4 +1,4 @@
-dataset <- "../household_power_consumption.txt"
+#dataset <- "../household_power_consumption.txt"
 dataset <- "subset.txt"
 hh <- read.table(file = dataset, 
                  header = TRUE, 
